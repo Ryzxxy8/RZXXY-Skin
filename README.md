@@ -34,7 +34,6 @@ RZXXY-Skin/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-‘’’
 
 ⚙️ Requirements
 
@@ -105,4 +104,5 @@ MIT License
 
 RZXXY NEBULA
 AI DEVELOPMENT SYSTEM
+
 Built with Python. Customized by RZXXY.
