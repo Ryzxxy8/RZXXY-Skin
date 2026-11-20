@@ -44,15 +44,23 @@ RZXXY-Skin/
 
 Clone the repository:
 
+```bash
 git clone https://github.com/Ryzxxy8/RZXXY-Skin.git
+```
 
 Enter the project directory:
 
+```bash
 cd RZXXY-Skin
+```
 
 Install dependencies:
 
+```bash
 python3 -m pip install -r requirements.txt
+```
+
+
 
 ▶️ Usage
 
@@ -72,13 +80,14 @@ python3 engine/banner.py
 
 🎨 Default Theme
 
-Property	Value
-Theme Name	RZXXY NEBULA
-Background	#0B0B14
-Foreground	#E6E6FA
-Primary	#A855F7
-Secondary	#22D3EE
-Accent	#FF8C42
+| Property | Value |
+|---|---|
+| Theme Name | RZXXY NEBULA |
+| Background | `#0B0B14` |
+| Foreground | `#E6E6FA` |
+| Primary | `#A855F7` |
+| Secondary | `#22D3EE` |
+| Accent | `#FF8C42` |
 
 🧠 Personality
 
