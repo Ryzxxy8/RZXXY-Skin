@@ -1,0 +1,16 @@
+name: RZXXY NEBULA
+description: Purple and cyan futuristic terminal theme
+
+colors:
+  background: "#0B0B14"
+  foreground: "#E6E6FA"
+  primary: "#A855F7"
+  secondary: "#22D3EE"
+  accent: "#FF8C42"
+
+branding:
+  title: "RZXXY NEBULA"
+  subtitle: "AI DEVELOPMENT SYSTEM"
+  author: "RZXXY"
+
+personality: nebula
