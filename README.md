@@ -62,22 +62,22 @@ python3 -m pip install -r requirements.txt
 
 
 
-▶️ Usage
+## ▶️ Usage
 
 Start RZXXY NEBULA:
-
+```bash
 python3 main.py
-
-🔍 Preview
+```
+## 🔍 Preview
 
 Display the skin configuration and personality:
-
+```bash
 python3 engine/preview.py
-
+```
 Display the terminal banner:
-
+```bash
 python3 engine/banner.py
-
+```
 🎨 Default Theme
 
 | Property | Value |
