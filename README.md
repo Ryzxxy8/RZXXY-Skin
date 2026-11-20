@@ -1,4 +1,7 @@
 # 🌌 RZXXY NEBULA
+ <p align="center">
+  <img src="./4946d308-a573-40d1-bbe3-0ecad1d9934a.gif" alt="RZXXY NEBULA Galaxy Animation" width="100%">
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
