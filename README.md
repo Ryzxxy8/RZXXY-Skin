@@ -1,4 +1,10 @@
-🌌 RZXXY NEBULA
+# 🌌 RZXXY NEBULA
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![PyYAML](https://img.shields.io/badge/PyYAML-6.0.3-purple)
+![Platform](https://img.shields.io/badge/Platform-iSH%20%7C%20Alpine-orange)
+
 
 AI DEVELOPMENT SYSTEM — Custom Terminal Skin Engine
 
