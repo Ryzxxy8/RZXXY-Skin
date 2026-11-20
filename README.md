@@ -14,8 +14,8 @@ RZXXY NEBULA is a Python-based terminal skin and personality configuration engin
 * Skin Preview — Preview skin configuration and personality settings.
 * Python Launcher — Start the system through a single entry point.
 
-📁 Project Structure
-
+## 📁 Project Structure
+```
 RZXXY-Skin/
 │
 ├── engine/
